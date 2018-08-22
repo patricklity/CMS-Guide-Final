@@ -176,6 +176,8 @@ Users can also click the “Edit” Button of the corresponding Customer Item un
       - The Facebook ID of The Customer
     * - COD limit
       - The Upper Limit of Cash on Delivery of The Customer
+    * - Delete
+      - "Yes" or "no" of customer is deleted
     * - Remark
       - The additional information of The Customer
       
