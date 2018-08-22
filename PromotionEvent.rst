@@ -30,8 +30,6 @@ Promotion Event table displays the details all the Promotion Events.
     * - Category Page Banner
       - Have Category Page Banner? (Yes/No)
     * - Shop
-      - upload a banner and display it in different checkout pages. E.g. you can set the banner display in checkout/cart,         checkout/address... 
-    * - Shop
       - The shop of Promotion Event
     * - Repeat
       - "Yes" or "No" of Repeat Promotion
