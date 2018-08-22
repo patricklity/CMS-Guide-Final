@@ -3,7 +3,7 @@ Referral Program Module
 ************
 User can extract the details of different Referral Program from the Referral Program Module.
 
-|ref|
+|Referralprogrammodule|
 
 .. list-table:: Referral Program
     :widths: 10 50
@@ -276,7 +276,7 @@ Users the Details of different Product Referral Links in this Module.
       - The percentage to share on mobile platform
 
 
-.. |ref| image:: ref.JPG
+.. |Referralprogrammodule| image:: Referralprogrammodule.JPG
 .. |ref_report| image:: ref_report.JPG
 .. |ref_report2| image:: ref_report2.JPG
 .. |ref_report3| image:: ref_report3.JPG
