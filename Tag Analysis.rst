@@ -23,7 +23,7 @@ Users can Export Tag Analysis Data in Excel Format by clicking on the “Downloa
 
 |tag_report|
 
-.. list-table:: Tag Analysis Report
+.. list-table:: Tag Analysis Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
