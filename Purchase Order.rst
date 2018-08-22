@@ -282,7 +282,7 @@ Inbound List Report
 ------------------
 Users can select “Export to Excel” from the dropdown list of the “Tools” button, it displays the details of how different Purchase Orders Items move into our warehouse.
 
-.. list-table:: Inbound List Report
+.. list-table:: Inbound List Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -306,7 +306,7 @@ Purchase Order Report
 ------------------
 Users can select “Export Table List” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders.
 
-.. list-table:: Purchase Order Report
+.. list-table:: Purchase Order Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -360,7 +360,7 @@ MYOB Purchase Order Report
 ------------------
 Users can select “Export MYOB Import List” from the dropdown list of the “Tools” button, it displays ______________________________ .
 
-.. list-table:: MYOB Purchase Order Report
+.. list-table:: MYOB Purchase Order Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -380,11 +380,11 @@ Users can select “Export MYOB Import List” from the dropdown list of the “
     * - Account #
       -
     * - Amount
-      -
+      - amount of this purchase order
     * - Inc-Tax Amount
-      -
+      - total amount of this purchase order including Tax payment
     * - Journal Memo
-      -
+      - remark of purchase order number
     * - Non-Tax Amount
       -
     * - Import Duty Amount
@@ -394,7 +394,7 @@ Users can select “Export MYOB Import List” from the dropdown list of the “
     * - Freight Import Duty Amount
       -
     * - Purchase Status
-      - 
+      - The payment status
     * - Currency Code
       - The Sales Currency of The Purchase Order
     * - Exchange Rate
@@ -414,13 +414,13 @@ Users can select “Export MYOB Import List” from the dropdown list of the “
     * - Record ID
       -
     * - Promotion Credits
-      -
+      - promotions supplier provided
       
 Vendor Issue Log Report
 ------------------
 Users can select “Export Vendor Issue Log” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders.
 
-.. list-table:: Vendor Issue Log Report
+.. list-table:: Vendor Issue Log Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -448,7 +448,7 @@ Users can select “Export Vendor Issue Log” from the dropdown list of the “
     * - Operation Remark
       - The Additional Operation Information of Purchase Order
     * - Account Ref
-      -
+      - remarks from account
     * - Order Amount
       - The Order Amount of The Purchase Order
     * - Bill Amount
@@ -458,15 +458,15 @@ Users can select “Export Vendor Issue Log” from the dropdown list of the “
     * - Paid Amount
       - The Paid Amount of Purchase Order
     * - Status
-      - 
+      - Status of purchase order
     * - Issue Type
-      -
+      - different type of issue that cannot receive as normal, default is Shortship
     * - Qty (units)
       - The Quantity of Product Ordered in The Purchase Order
     * - Merchant Comment
-      -
+      - comment from merchant team
     * - New PO No. for action
-      -
+      - The number of new purchase order if have
     * - Change GR status to settled
       -
       
@@ -474,7 +474,7 @@ Inbound List for WMS
 ------------------
 Users can select “Export for WMS” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders for WMS.
 
-.. list-table:: Inbound List for WMS
+.. list-table:: Inbound List for WMS Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
