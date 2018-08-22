@@ -40,6 +40,8 @@ The Customer List Module displays the details of our registered customers. Users
       - The Company of Customer
     * - Z-dollar
       - The Amount of Z-dollar of Customer
+    * - Zmile
+      - The Amount of Zmile of Customer
     * - Rank Name
       - The Rank of Customer
     * - Rank Updated Date
