@@ -147,6 +147,27 @@ Users can create new Product Promotion items by clicking the “+ Create Promoti
     * - Discount Value
       - The Value of Discount
 
+Advanced Search
+==================
+Users can search Product Promotion items with different criterion by clicking the “Advanced Search” button.
+
+|Productpromotionadvancedsearch|
+
+.. list-table:: Product Promotion Advanced Search Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Start Date
+      - The Starting Date of The Promotion
+    * - End Date
+      - The Final Date of The Promotion
+    * - Status
+      - Active/ Inactive/ Expired Promotion
+    * - Product Codes
+      - The Product ID of The Product in The Promotion
 
 Product Promotion Report
 ==================
@@ -182,4 +203,5 @@ Users can export Product Promotion items in excel format by clicking the “Expo
 .. |Createproductpromotion2| image:: Createproductpromotion2.jpg
 .. |Createproductpromotion3| image:: Createproductpromotion3.jpg
 .. |Createproductpromotion3| image:: Createproductpromotion3.jpg
+.. |Productpromotionadvancedsearch| image:: Productpromotionadvancedsearch.jpg
 .. |Productpromotionreport| image:: Productpromotionreport.JPG
