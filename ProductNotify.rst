@@ -78,6 +78,9 @@ Users can click on the “Advanced Search” button on top of the Product Notifi
     * - Product Name
       - The Product Name
       -
+    * - Product Status
+      - Active/ Inactive Product
+      -
     * - Number of Notify
       - The Number Rage of Product Notification
       -
