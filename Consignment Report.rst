@@ -2,7 +2,7 @@
 Consignment Report Module
 ************
 
-|cons|
+|Consignmentreportmodule|
 
 .. list-table:: Consignment Report Module
     :widths: 10 50
@@ -24,7 +24,7 @@ User can Extract the Consignment Details according to different Vendor specified
 
 |consreport|
 
-.. list-table:: Consignment Report 
+.. list-table:: Consignment Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -83,5 +83,5 @@ User can Extract the Consignment Details according to different Vendor specified
       - Difference between above two fields
 
 
-.. |cons| image:: cons.JPG
+.. |Consignmentreportmodule| image:: Consignmentreportmodule.jpg
 .. |consreport| image:: consreport.JPG
