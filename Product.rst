@@ -723,11 +723,13 @@ Users can export the merchandizing details of different Products by clicking on 
       - States this product exists product photos or not
     * - SOH(N)
       - The fields state the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
-    * - RSOH(C)
+    * - SOH(C)
       - The fields state the clearance stock on hand. Clearance stock means that the best before date between today plus 10 days (for delivery process) and today plus 10 days (for delivery process) plus min shelf day.
     * - SOH(E)
       - The fields state the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).	
     * - SOH(H)
+      - The Accumulated Product Sales Quantity
+    * - Accumulated Sales Qty
       - The Accumulated Product Sales Quantity
    
 
