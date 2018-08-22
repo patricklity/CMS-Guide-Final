@@ -135,7 +135,7 @@ Users can Export different types of Order Details by clicking on the “Tools”
 
 |order_report|
 
-.. list-table:: Order (Operation) Module Delivery Report
+.. list-table:: Order (Operation) Module Delivery Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
