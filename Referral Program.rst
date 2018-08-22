@@ -57,7 +57,7 @@ User can Export the Details of Referral User by clicking on the “Referral User
     * - Total rebate amount
       - The Total Rebate Amount given to The Referral User Customer
     * - Score for Ranking
-      - 
+      - The Total Score of The Customer for Ranking
     * - Total No.of purchase
       - Number of orders made by referred users
     * - Avg idle period of referred users (day)
@@ -255,7 +255,7 @@ Users the Details of different Product Referral Links in this Module.
     * - No. of user register
       - Number of registration after clicking this link
     * - Referral conversion rate
-      - 
+      - The Proportion of Orders made to the times of Referral Link clicked
     * - Total GMV
       - The Merchandise Value of Product Purchased with This Link
     * - Total billing amount
@@ -269,7 +269,7 @@ Users the Details of different Product Referral Links in this Module.
     * - No. of purchase with referred products
       - Number of orders made for this product after clicking this link
     * - Avg idle period of referred users
-      -
+      - The Average Time Period in between every Orders by all Referred Users
     * - Share rate on PC
       - The percentage to share on PC platform
     * - share rate on Mobile
