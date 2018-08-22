@@ -46,11 +46,9 @@ User can Extract the Consignment Details according to different Vendor specified
     * - RSP
       - Retail Sales Price
     * - Consignment Rate
-      - 
+      - the percentage that Ztore can take profit for this item
     * - Remaining SOH - 2018-03-01 00:00:00
-      - 
-    * - Inbounded DN18022811500205
-      - 
+      - The remaining SOH at this time = remaining soh start + total inboune - sales qty (noraml) - sales qty (cleanance) + adjustment
     * - Sales Value
       - The Product Sales Value
     * - Sales QTY
@@ -70,15 +68,15 @@ User can Extract the Consignment Details according to different Vendor specified
     * - Total Cost
       - The Total Cost of Product Sales
     * - Bad Condition
-      - 
+      - such as damage, those items were be write-off
     * - Remarks
       - The Additional Information of Consignment
     * - Adjustment
       - Number of inventory adjustment from excel upload (not from PO)
     * - Remaining SOH - 2018-03-31 23:59:59
-      - 
+      - The remaining SOH at this time = remaining soh start + total inboune - sales qty (noraml) - sales qty (cleanance) + adjustment
     * - SOH on 2018-03-31 23:59:59
-      - 
+      - SOH at this time = get from system directly
     * - Difference
       - Difference between above two fields
 
