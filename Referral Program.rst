@@ -21,7 +21,7 @@ User can Export the Details of Referral User by clicking on the “Referral User
 
 |ref_report|
 
-.. list-table:: Referral User Report
+.. list-table:: Referral User Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -95,7 +95,7 @@ User can Export the Order Details made by Referred User in this Module.
 
 |ref_report2|
 
-.. list-table:: Referral User Order Report
+.. list-table:: Referral User Order Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -147,7 +147,7 @@ User can Export the Details of different Medium Engaged by the Users.
 
 |ref_report3|
 
-.. list-table:: Engagement Medium Report
+.. list-table:: Engagement Medium Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -191,7 +191,7 @@ User can Export The data of different Types of Referral Link in this Module.
 
 |ref_report4|
 
-.. list-table:: Referral Link Report
+.. list-table:: Referral Link Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -235,7 +235,7 @@ Users the Details of different Product Referral Links in this Module.
 
 |ref_report5|
 
-.. list-table:: Product Referral Link Report
+.. list-table:: Product Referral Link Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
