@@ -444,7 +444,7 @@ Export Customer Report
 ------------------
 Users can export the basic details of targeted customer into Excel format by clicking “Export Customer Report” in the “Tools” button dropdown list.
 
-.. list-table:: Customer Report
+.. list-table:: Customer Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -514,7 +514,7 @@ Export Membership Report
 ------------------
 Users can export the ordering details of targeted customer into Excel format by clicking “Export Membership Report” in the “Tools” button dropdown list.
 
-.. list-table:: Membership Report
+.. list-table:: Membership Report Column Headings
     :widths: 10 50 50
     :header-rows: 1
     :stub-columns: 1
@@ -615,7 +615,7 @@ Export Membership Redemption Report
 ------------------
 Users can see the redemption progress of selected customers in Excel format.
 
-.. list-table:: Customer Report
+.. list-table:: Customer Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
