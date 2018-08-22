@@ -3,7 +3,7 @@ Product Location Module
 ************
 Product Location Module display the Location Details of different Products.
 
-|prolocation|
+|Productlocationmodule|
 
 .. list-table:: Product Location Module
     :widths: 10 50
@@ -31,7 +31,7 @@ Users can Export Product Location Details by clicking on the “Tools” button 
 
 |prolocation_report|
 
-.. list-table:: Location Master Report
+.. list-table:: Location Master Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -46,5 +46,5 @@ Users can Export Product Location Details by clicking on the “Tools” button 
       - The Product Location
 
 
-.. |prolocation| image:: prolocation.JPG
+.. |Productlocationmodule| image:: Productlocationmodule.JPG
 .. |prolocation_report| image:: prolocation_report.JPG
