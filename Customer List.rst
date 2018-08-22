@@ -213,6 +213,8 @@ Edit - Current User Address
       - The District of Consignee
     * - Area
       - The Area of Consignee
+    * - Address
+      - The Address of Consignee
     * - No Lift
       - "Yes" or "No" of No Lift in The Consignee Building
     * - Distinction
