@@ -3,7 +3,7 @@ Email Error Log Module
 ************
 Email Error Log Module displays the details of Error Emails. Users can select corresponding action by clicking the corresponding buttons in the “Action” column.
 
-|email|
+|Emailerrorlogmodule|
 
 .. list-table:: Email Error Log Module
     :widths: 10 50
@@ -24,4 +24,4 @@ Email Error Log Module displays the details of Error Emails. Users can select co
       - Resend Mandrill Email/ Resend SMTP Email/ Ignore Email
 
 
-.. |email| image:: email.JPG
+.. |Emailerrorlogmodule| image:: Emailerrorlogmodule.JPG
