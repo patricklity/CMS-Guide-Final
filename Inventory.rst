@@ -3,7 +3,7 @@ Inventory Module
 ************
 User can upload different types of Inventory-related files in this Module.
 
-|inventory|
+|Inventorymodule|
 
 .. list-table:: Inventory Module
     :widths: 10 50 50
@@ -24,4 +24,4 @@ User can upload different types of Inventory-related files in this Module.
 
 
 
-.. |inventory| image:: inventory.JPG
+.. |Inventorymodule| image:: Inventorymodule.JPG
