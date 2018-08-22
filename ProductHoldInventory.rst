@@ -10,7 +10,8 @@ Product Hold Inventory Module displays Stock Holding Numbers of different Produc
     :header-rows: 1
     :stub-columns: 1
 
-
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
     * - Item Code
       - The Product Code
     * - Chinese Product Description
