@@ -440,7 +440,7 @@ Users can export different kinds Customer Report by select the types of report f
 
 |customerlist_report|
 
-Export Customer Report
+Customer Report
 ------------------
 Users can export the basic details of targeted customer into Excel format by clicking “Export Customer Report” in the “Tools” button dropdown list.
 
@@ -510,7 +510,7 @@ Users can export the basic details of targeted customer into Excel format by cli
     * - Address Distinction
       - Commercial/Non-commercial
       
-Export Membership Report
+Membership Report
 ------------------
 Users can export the ordering details of targeted customer into Excel format by clicking “Export Membership Report” in the “Tools” button dropdown list.
 
@@ -611,7 +611,7 @@ Users can export the ordering details of targeted customer into Excel format by 
       - Levelup / Renew : reduce the next / current grade condition zmile
         Downgrade : reduce all Zmile
 
-Export Membership Redemption Report
+Membership Redemption Report
 ------------------
 Users can see the redemption progress of selected customers in Excel format.
 
