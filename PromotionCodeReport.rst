@@ -47,17 +47,16 @@ Users can Search Promotion Code by clicking on the “Advanced Search” button 
       -
     * - Promotion Type
       - The Type of Promotion
-      - - Reduce Price - 
-        - Discount Off - 
-        - Z-dollar - 
-        - Z-dollar Percentage - 
-
+      - Reduce Price, Discount Off, Z-dollar, Z-dollar Percentage 
     * - PIC
       - The Person in Charge of the Promotion Code
+      -
     * - Description
       - The Description of Promotion
+      -
     * - 1st purchase or not
       - "Yes" or "no" of a Promotion Code for the 1st Purchase
+      -
   
 
 
