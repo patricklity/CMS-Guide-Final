@@ -77,7 +77,7 @@ Advanced Search
 ==================
 Users can input different criterion into the pop-up Advanced Search window to locate target Purchase Order Items.
 
-|purorder_search|
+|Purchaseorderadvancedsearch|
 
 .. list-table:: Purchase Order Module Advanced Search
     :widths: 10 50 50
@@ -504,6 +504,7 @@ Users can select “Export for WMS” from the dropdown list of the “Tools” 
 
 
 .. |purorder| image:: purorder.JPG
+.. |Purchaseorderadvancedsearch| image:: Purchaseorderadvancedsearch.jpg
 .. |purorder_buttons| image:: purorder_buttons.JPG
 .. |purorder_create| image:: purorder_create.JPG
 .. |purorder_edit| image:: purorder_edit.JPG
