@@ -75,32 +75,13 @@ The Customer List Module displays the details of our registered customers. Users
     * - Action
       - Edit - Edit Customer Item Information
       
-Buttons
-==================
-The Buttons on top of The Table allow users to find The Target Customers they are looking for and export them out into a report.
 
-|customerlist_buttons|
-
-.. list-table:: Customer List Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - BUTTONS
-      - DESCRIPTIONS
-    * - Advanced Search
-      - User can use multiple search criterion to locate the target Customers
-    * - Tools
-      - User can export different kinds of Customer Reports.
-    * - Other Search
-      - User can filter Customers with different Status or Customer Tier
-    * - SN, email, name, contact input box
-      - User can input corresponding Customer details to locate target Customers
       
 Advanced Search
 ==================
 Users can input different criterion into the pop-up Advanced Search window to locate target Purchase Order Items.
 
+|customeradvancedsearchbutton|
 |customerlist_search|
 
 .. list-table:: Customer List Module Advanced Search
@@ -129,6 +110,7 @@ Edit
 ==================
 Users can also click the “Edit” Button of the corresponding Customer Item under the Action column to edit the details of that Customer.
 
+|customereditbutton|
 |customerlist_edit|
 
 .. list-table:: Edit
@@ -649,8 +631,9 @@ Users can see the redemption progress of selected customers in Excel format.
 
 
 .. |customerlist| image:: customerlist.JPG
-.. |customerlist_buttons| image:: customerlist_buttons.JPG
+.. |customeradvancedsearchbutton| image:: Customeradvancedsearchbutton.JPG
 .. |customerlist_search| image:: customerlist_search.JPG
+.. |customereditbutton| image:: Customereditbutton.JPG
 .. |customerlist_edit| image:: customerlist_edit.JPG
 .. |customerlist_edit2| image:: customerlist_edit2.JPG
 .. |customerlist_edit3| image:: customerlist_edit3.JPG
