@@ -35,28 +35,13 @@ Rank List shows the details of different Customer Tiers.
     * - Actions
       - Edit - Edit Rank Item Information
       
-Buttons
-==================
-The Buttons on top of The Table allow users to find The Target Customers they are looking for and export them out into a report.
 
-|ranklist_buttons|
-
-.. list-table:: Rank List Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - BUTTONS
-      - DESCRIPTIONS
-    * - Create Rank
-      - User can create a new rank by clicking on this button
-    * - Quick Search Name input box
-      - User can find the targeted rank by entering the Rank Name
       
 Create and Edit Rank
 ==================
 Users can create a new Customer Rank by clicking on the “Create Rank” button on top of the Rank List Table and enter the details of new Rank.
 
+|Rankcreaterankbutton|
 |ranklist_edit|
 
 Users can edit details of a Customer Rank by clicking the corresponding “Edit” button in the “Actions” column.
@@ -116,7 +101,7 @@ Users can edit details of a Customer Rank by clicking the corresponding “Edit�
 
 
 .. |ranklist| image:: ranklist.JPG
-.. |ranklist_buttons| image:: ranklist_buttons.JPG
+.. |Rankcreaterankbutton| image:: Rankcreaterankbutton.JPG
 .. |ranklist_edit| image:: ranklist_edit.JPG
 .. |ranklist_edit2| image:: ranklist_edit2.JPG
 
