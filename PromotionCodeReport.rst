@@ -32,7 +32,9 @@ Advanced Search
 ==================
 Users can Search Promotion Code by clicking on the “Advanced Search” button on top of the Promotion Code Table and input different criterion into the popup window.
 
+|Promotioncodeadvancedsearchbutton|
 |Promotioncodereportadvancedsearch|
+
 
 .. list-table:: Promotion Code Report Advanced Search Page
     :widths: 10 50 50
@@ -61,6 +63,6 @@ Users can Search Promotion Code by clicking on the “Advanced Search” button 
 
 
 .. |Promotioncodereportmodule| image:: Promotioncodereportmodule.JPG
+.. |Promotioncodeadvancedsearchbutton| image:: Promotioncodeadvancedsearchbutton.JPG
 .. |Promotioncodereportadvancedsearch| image:: Promotioncodereportadvancedsearch.jpg
-
 
