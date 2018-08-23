@@ -42,32 +42,11 @@ Product Rating Module displays the review of different Product and Orders from t
       - Referring to CS - Refer The Customer Review to The CS Team, Show - Display The Review, Reply - Reply to The Review, Delete - Delete The Review Item
 
 
-Buttons
-==================  
-Users can Update, Search, Create and Export Review Details by clicking on the buttons above the Review table. You can also Reply or Refer the Review to the Customer Service Team by clicking the corresponding button and The Customer Review in the “Actions” column.
-
-|Productratingbuttons|
-
-.. list-table:: Product Rating Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Batch Update
-      - Users can select more than one Review at a time and update details of those Reviews simultaneously
-    * - Advanced Search
-      - Users can Search for Reviews by inputting different criterion into the popup window.
-    * - Create Review
-      - Users can create reviews and input new reviews details into the popup window
-    * - Tools
-      - Users can export review details in Excel format
-
 Batch Update
 ==================  
 Users can update the visible status of more than one Customer Review at the same time by clicking on the “Batch Update” button on top of the Customer Review table while selecting the Customer reviews at the same time.
 
+|Productratingbatchupdatebutton|
 |Productratingbatchupdate|
 
 .. list-table:: Product Rating Batch Update Page
@@ -84,6 +63,7 @@ Advanced Search
 ================== 
 Users can Search for Reviews with different criterion by clicking on the “Advanced Search” button on top of the Customer Review Table.
 
+|Productratingadvancedsearchbutton|
 |Productratingadvancedsearch|
 
 .. list-table:: Product Rating Advanced Search Page
@@ -122,6 +102,7 @@ Create Review
 ================== 
 Users can Create new Review by clicking on the “Create Review” button on top of the Review table.
 
+|Productratingcreatereviewbutton|
 |Productratingcreatereview|
 
 .. list-table:: Product Rating Create Review Page
@@ -170,8 +151,10 @@ Users can export Customer Review details by clicking on the “Export Product Ra
     
 
 .. |Productratingmodule| image:: Productratingmodule.JPG
-.. |Productratingbuttons| image:: Productratingbuttons.JPG
+.. |Productratingbatchupdatebutton| image:: Productratingbatchupdatebutton.JPG
 .. |Productratingbatchupdate| image:: Productratingbatchupdate.jpg
+.. |Productratingadvancedsearchbutton| image:: Productratingadvancedsearchbutton.JPG
 .. |Productratingadvancedsearch| image:: Productratingadvancedsearch.jpg
+.. |Productratingcreatereviewbutton| image:: Productratingcreatereviewbutton.JPG
 .. |Productratingcreatereview| image:: Productratingcreatereview.jpg
 .. |Productratingreport| image:: Productratingreport.JPG
