@@ -45,32 +45,13 @@ Tag List Module displays the detailed information of all the Tags. Users can sea
       - Edit - Edit Tag Item Information, Delete - Delete Tag Item, Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
 
        
-Buttons
-==================
-Users can search, create and export Tags report by clicking on the buttons on top of the table. They can also input Tag ID, name and code in the input box for quick search of corresponding Tag.
 
-|Tagbuttons|
-
-.. list-table:: Tag List Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Search Tag
-      - Users can search targeted Tags with different criterion
-    * - Create Tag
-      - Users can create new Tags
-    * - Export Excel
-      - Users can export Tag Reports
-    * - Id, name, code Input Box
-      - Users can input Tag ID, name or Code into the input box for quick search.
 
 Search Tags
 ==================
 Users can click on the “Search Tag” button on top of the Tag table and enter different criterion in the popup window for Tag searching
 
+|Tagsearchbutton|
 |Searchtag|
 
 .. list-table:: Search Tag
@@ -175,7 +156,7 @@ Users can export the details of different Tags in Excel format by clicking on th
     
 
 .. |Tagmodule| image:: Tagmodule.JPG
-.. |Tagbuttons| image:: Tagbuttons.JPG
+.. |Tagsearchbutton| image:: Tagsearchbutton.JPG
 .. |Searchtag| image:: Searchtag.jpg
 .. |Createtag| image:: Createtag.JPG
 .. |Tagreport| image:: Tagreport.JPG
