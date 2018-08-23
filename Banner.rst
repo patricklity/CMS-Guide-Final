@@ -41,31 +41,14 @@ Banner Module displays the details of different Banners made by our colleagues f
     * - Action
       - Edit - Edit Banner Item Information, Delete - Delete Banner Item
         
-Buttons
-==================
-Users can Create and Search for Banner by clicking on the buttons on top of the Banner table.
-
-|Bannerbuttons|
-
-.. list-table:: Banner Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Create Banner
-      - Users can create new Banner by inputting Banner details into the popup window
-    * - Other Search
-      - User can filter Banner items by their status
-    * - Id, name, image name Input Box
-      - User can carry out easy search by inputting Banner details into the Input Box
 
 Create Banner
 ==================
 Users can create new Banner item by clicking on the “Create Banner” button on top of Banner table.
 
+|Bannercreatebanner|
 |Bannercreate|
+
 
 .. list-table:: Create Banner
     :widths: 10 50
@@ -226,6 +209,7 @@ User can filter the Banner by their Status when clicking on the “Other Search�
       
 .. |Bannermodule| image:: Bannermodule.jpg
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
+.. |Bannercreatebanner| image:: Bannercreatebanner.JPG
 .. |Bannercreate| image:: Bannercreate.jpg
 .. |Createbannerhomebanner| image:: Createbannerhomebanner.jpg
 .. |Createbannercategorybanner| image:: Createbannercategorybanner.jpg
