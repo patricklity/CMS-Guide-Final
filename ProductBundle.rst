@@ -46,33 +46,13 @@ Product Bundle Module displays the details of all Product Bundles in the table. 
     
 .. list-table:: 
  
-Buttons
-==================  
-Users can click on the buttons on top of the Product Bundle table to create new Product Bundle Item and export Product Bundle details. Users can also carry out quick search by inputting Product Bundle code in the input box
 
-|Productbundlebuttons|
-
-.. list-table:: Product Notify Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Create Bundle
-      - Create a new set of Product Bundle Items
-    * - Tools
-      - Show All "Active" Status Notifications
-    * - Quick Search Input Box
-      - Users can input Product ID into the Input Box for quick search
-    
-   
-.. list-table:: 
 
 Create Product Bundle
 ================== 
 Users can create new Product Bundle items by clicking on the “Create Bundle” button on top of the Product Bundle table.
 
+|Productbundlecreatebutton|
 |Createproductbundle|
 
 .. list-table:: Product Notify Module Buttons
@@ -149,6 +129,6 @@ Users can export Product Bundle details in Excel format by clicking on the “To
 .. list-table:: 
 
 .. |Productbundlemodule| image:: Productbundlemodule.JPG
-.. |Productbundlebuttons| image:: Productbundlebuttons.JPG
+.. |Productbundlecreatebutton| image:: Productbundlecreatebutton.JPG
 .. |Createproductbundle| image:: Createproductbundle.jpg
 .. |Productbundlereport| image:: Productbundlereport.JPG
