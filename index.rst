@@ -26,12 +26,6 @@
    ProductCostUpdate
 
 .. toctree::
-   :caption: Others
-   :maxdepth: 2
-
-   Others
-
-.. toctree::
    :caption: Customer
    :maxdepth: 2
 
@@ -43,84 +37,7 @@
    Zmile Criteria List
    Membership Notification
    Friend Code Generator
-  
-.. toctree::
-   :caption: Ticket
-   :maxdepth: 2
 
-   Ticket
-
-.. toctree::
-   :caption: Development
-   :maxdepth: 2
-
-   API Testing Platform
-   Quick Action
-
-.. toctree::
-   :caption: Inventory
-   :maxdepth: 2
-
-   Inventory
-
-.. toctree::
-   :caption: WMS
-   :maxdepth: 2
-
-   Order (Operation)
-   Location
-   Update Location Master
-   Search Location
-   Product Location
-   Update Product Location
-   Re-Generate Excel
-   Product Barcode
-   Print Product Label
-
-.. toctree::
-   :caption: MMS
-   :maxdepth: 2
-
-   Send MMS
-   MMS Delivery Log
-
-.. toctree::
-   :caption: Order
-   :maxdepth: 2
-
-   Order List
-
-.. toctree::
-   :caption: Purchase Order
-   :maxdepth: 2
-
-   Purchase Order
-   Replenishment
-   
-.. toctree::
-   :caption: System
-   :maxdepth: 2
-
-   Admin
-   Admin Type
-   Email Error Log
-   View Admin Log
-   Setting
-   Project
-   System Notification
-
-.. toctree::
-   :caption: Website Content
-   :maxdepth: 2
-
-   Menu
-   Media Coverage
-   Website Sitemap File
-   Content Farm
-   Shop
-   Feature Category
-   Website Notification
-   
 .. toctree::
    :caption: Promotion
    :maxdepth: 2
@@ -130,8 +47,19 @@
    PromotionEvent
    ShopRedemption
    PriceUpload
-   
-   
+
+.. toctree::
+   :caption: Inventory
+   :maxdepth: 2
+
+   Inventory
+
+.. toctree::
+   :caption: Order
+   :maxdepth: 2
+
+   Order List
+
 .. toctree::
    :caption: Report
    :maxdepth: 2
@@ -155,3 +83,78 @@
    Tag Analysis
    Z-Dollar Report
    Consignment Report
+
+.. toctree::
+   :caption: Development
+   :maxdepth: 2
+
+   API Testing Platform
+   Quick Action
+
+.. toctree::
+   :caption: System
+   :maxdepth: 2
+
+   Admin
+   Admin Type
+   Email Error Log
+   View Admin Log
+   Setting
+   Project
+   System Notification
+
+.. toctree::
+   :caption: WMS
+   :maxdepth: 2
+
+   Order (Operation)
+   Location
+   Update Location Master
+   Search Location
+   Product Location
+   Update Product Location
+   Re-Generate Excel
+   Product Barcode
+   Print Product Label
+
+.. toctree::
+   :caption: Website Content
+   :maxdepth: 2
+
+   Menu
+   Media Coverage
+   Website Sitemap File
+   Content Farm
+   Shop
+   Feature Category
+   Website Notification
+
+.. toctree::
+   :caption: Purchase Order
+   :maxdepth: 2
+
+   Purchase Order
+   Replenishment
+
+.. toctree::
+   :caption: Others
+   :maxdepth: 2
+
+   Others
+
+
+  
+.. toctree::
+   :caption: Ticket
+   :maxdepth: 2
+
+   Ticket
+
+.. toctree::
+   :caption: MMS
+   :maxdepth: 2
+
+   Send MMS
+   MMS Delivery Log
+
+
