@@ -51,7 +51,7 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 
 .. list-table:: Create Banner
-    :widths: 10 50
+    :widths: 10 20
     :header-rows: 1
     :stub-columns: 1
 
