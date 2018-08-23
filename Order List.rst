@@ -76,32 +76,13 @@ The Order Category lists are the Orders made by customer in the list. Users can 
         - Submit for Settlement - Submit The Order Item for Settling;
         - Void Order - Delete The Order Item
         
-Buttons
-==================
-The Buttons on top of The Table allow users to find The Target Order Items they are looking for and export them out into a report.
 
-|orderlist_buttons|
-
-.. list-table:: Order List Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - BUTTONS
-      - DESCRIPTIONS
-    * - Advanced Search
-      - User can use multiple search criterion to locate the target order item
-    * - Tools
-      - User can export different kinds of Order Reports.
-    * - Other Search 
-      - User can display all orders or only all paid orders in the table
-    * - Order SN/Waybill No Input Box
-      - User can input corresponding Order ID or Waybill Number to locate Order
       
 Advanced Search
 ==================
 Users can input different criterion into the pop-up Advanced Search window to locate target Order Items.
 
+|Orderadvancedsearchbutton|
 |orderlist_search|
 
 .. list-table:: Order List Module Advanced Search
@@ -177,6 +158,7 @@ Edit
 ==================
 By clicking the “Edit” Button in the corresponding Order Item under The Action column, users can edit the details of the Order Item.
 
+|Ordereditbutton|
 |orderlist_edit|
 
 .. list-table:: Order List Module Edit
@@ -432,8 +414,9 @@ The table below lists out the headings users are going to see in the order repor
 
 
 .. |orderlist| image:: orderlist.JPG
-.. |orderlist_buttons| image:: orderlist_buttons.JPG
+.. |Orderadvancedsearchbutton| image:: Orderadvancedsearchbutton.JPG
 .. |orderlist_search| image:: orderlist_search.JPG
+.. |Ordereditbutton| image:: Ordereditbutton.JPG
 .. |orderlist_edit| image:: orderlist_edit.JPG
 .. |orderlist_edit3| image:: orderlist_edit3.JPG
 .. |orderlist_edit4| image:: orderlist_edit4.JPG
