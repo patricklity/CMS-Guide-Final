@@ -30,33 +30,14 @@ Product Promotion Module displays all the Product Promotion Items of all Product
       - Active/Inactive Promotion
 
 
-Buttons
-==================
-Users can select the buttons on top of the Product Promotion table to create, search and export product promotion items.
-   
-|Productpromotionbuttons|
 
-.. list-table:: Product Promotion Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Create Promotion
-      - Users can create new Product Promotion Items
-    * - Advanced Search 
-      - Users can search target Product Promotion items by different criterion.
-    * - Export Excel
-      - Users can export Product Promotion Report in Excel Format
-    * - Promotion sn, page message input box
-      - Users can type Promotion ID or message content to carry out quick search
       
       
 Create Product Promotion Items
 ==================
 Users can create new Product Promotion items by clicking the “+ Create Promotion” Button on top of The Product Promotion table.
 
+|Promotioncreatepromotionbutton|
 |Createproductpromotion1|
 |Createproductpromotion2|
 |Createproductpromotion3|
@@ -151,6 +132,7 @@ Advanced Search
 ==================
 Users can search Product Promotion items with different criterion by clicking the “Advanced Search” button.
 
+|Promotionadvancedsearchbutton|
 |Productpromotionadvancedsearch|
 
 .. list-table:: Product Promotion Advanced Search Page
@@ -198,10 +180,11 @@ Users can export Product Promotion items in excel format by clicking the “Expo
       - Active/ Inactive/ Expired Promotion Items
 
 .. |Productpromotionmodule| image:: Productpromotionmodule.JPG
-.. |Productpromotionbuttons| image:: Productpromotionbuttons.JPG
+.. |Promotioncreatepromotionbutton| image:: Promotioncreatepromotionbutton.JPG
 .. |Createproductpromotion1| image:: Createproductpromotion1.jpg
 .. |Createproductpromotion2| image:: Createproductpromotion2.jpg
 .. |Createproductpromotion3| image:: Createproductpromotion3.jpg
 .. |Createproductpromotion3| image:: Createproductpromotion3.jpg
+.. |Promotionadvancedsearchbutton| image:: Promotionadvancedsearchbutton.JPG
 .. |Productpromotionadvancedsearch| image:: Productpromotionadvancedsearch.jpg
 .. |Productpromotionreport| image:: Productpromotionreport.JPG
