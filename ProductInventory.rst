@@ -38,30 +38,12 @@ Product Inventory Module displays the Inventory details of different Products in
       - Active/ Inactive Inventory
 
 
-Buttons
-==================  
-Users can search and export Inventory details of different Products by clicking the buttons on top of the Product Inventory table.
-
-|Productinventorybuttons|
-
-.. list-table:: Product Inventory Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Advanced Search
-      - Users can search for Inventory details by different criterion
-    * - Export Excel
-      - Users can export Inventory Details of different Products 
-    * - Search SN/ Barcode/ Product Name Input Box
-      - User can carry out quick search by inputting the related values into the Input Box
    
 Advanced Search
 ==================
 Users can click on the “Advanced Search” button on top of the Product Inventory table and input different criterion into the popup window for locating the target Inventory Details.
 
+|Productinventoryadvancedsearchbutton|
 |Productinventoryadvancedsearch|
 
 .. list-table:: Product Inventory Advanced Search
@@ -152,6 +134,6 @@ Users can export Inventory details of different Products by clicking on the “E
    
 
 .. |Productinventorymodule| image:: Productinventorymodule.JPG
-.. |Productinventorybuttons| image:: Productinventorybuttons.JPG
+.. |Productinventoryadvancedsearchbutton| image:: Productinventoryadvancedsearchbutton.JPG
 .. |Productinventoryadvancedsearch| image:: Productinventoryadvancedsearch.jpg
 .. |Productinventoryreport| image:: Productinventoryreport.JPG
