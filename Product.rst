@@ -4,7 +4,7 @@ Product List Module
 
 Product List Module shows the details of different Products in the Table. User can create new Product items, search and export Product Details by clicking on the buttons on top of the Product List table. You can also edit and delete Product items by clicking on the corresponding buttons in the “Action” column.
 
-|Productmodule|
+|Productmodule2|
 
 .. list-table:: Product Module
     :widths: 10 50
@@ -63,36 +63,12 @@ Product List Module shows the details of different Products in the Table. User c
       - Edit/ Clone/ Delete Product Item
       
       
-Buttons
-==================
-User can create and search Brand items by clicking on the buttons on top of the Brand table. User can also edit or delete individual Brand items by clicking on the corresponding buttons in the “Action” column.
-
-|Productbuttons|
-
-.. list-table:: Product Module
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Advanced Search
-      - User can search for Products with different Criterion
-    * - Create Product
-      - User can create new Product Item
-    * - Batch Update
-      - User can select more than one Product and edit details of those selected Products simultaneously
-    * - Tools
-      - Users can export different types of Product Reports
-    * - Other Search
-      - Users can filter Product items with their status
-    * - Product Code/ Barcode/ Brand Name/ Product Name Input Box
-      - Users can carry out quick search by inputting the Product’s Code/ Barcode/ Brand Name/ Name into the Input Box
    
 Advanced Search
 ==================
 Users can search for Product items by clicking on the “Advanced Search” buttons on top of the Products table and input different criterion in the popup window.
 
+|Productadvancedsearchbutton|
 |Productadvancedsearch|
 
 .. list-table:: Product Advanced Search
@@ -162,6 +138,7 @@ Create Products
 ==================
 Users can create new Product items by clicking on the “Create Product” button on top of the Product table and input product details into the popup window.
 
+|Productcreateproductbutton|
 |Createproducts|
 
 .. list-table:: Create Products Page
@@ -446,6 +423,7 @@ Batch Update
 ==================
 Users can select more than one Product at a time and click the “Batch Update” button on top of the Products table to update the details of the selected Products at the same time.
 
+|Productbatchupdatebutton|
 |Productbatchupdate|
 
 Other Search
@@ -1029,10 +1007,10 @@ Users can Compare Product details offered by Ztore and other companies when clic
       - The Discount Amount of The Product Item offered by Parknshop
    
       
-.. |Productmodule| image:: Productmodule.JPG
-.. |Productbuttons| image:: Productbuttons.JPG
+.. |Productmodule2| image:: Productmodule2.JPG
+.. |Productadvancedsearchbutton| image:: Productadvancedsearchbutton.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
-.. |Productadvancedsearch| image:: Productadvancedsearch.jpg
+.. |Productcreateproductbutton| image:: Productcreateproductbutton.JPG
 .. |Createproducts| image:: Createproducts.jpg
 .. |Createproductsproductotherinformation| image:: Createproductsproductotherinformation.jpg
 .. |Createproductsproductdetail| image:: Createproductsproductdetail.jpg
@@ -1040,6 +1018,7 @@ Users can Compare Product details offered by Ztore and other companies when clic
 .. |Createproductsproductimage| image:: Createproductsproductimage.jpg
 .. |Createproductsproductlogistics| image:: Createproductsproductlogistics.jpg
 .. |Createproductsproductdimension| image:: Createproductsproductdimension.jpg
+.. |Productbatchupdatebutton| image:: Productbatchupdatebutton.JPG
 .. |Productbatchupdate| image:: Productbatchupdate.jpg
 .. |Productothersearch| image:: Productothersearch.JPG
 .. |Productreport| image:: Productreport.JPG
