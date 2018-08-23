@@ -46,32 +46,13 @@ Promotion Event table displays the details all the Promotion Events.
     * - Actions
       - Edit - Edit Promotion Event Information, Delete - Delete Promotion Event Item, Download - Download Promotion Item Information
 
-Buttons
-==================
-Users can select the buttons on top of the Promotion Event table to create, search and export Promotion Event items.
 
-|Promotioneventbuttons|
-
-.. list-table:: Promotion Event Module
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Create Promotion Event
-      - Users can create new Promotion Event Items
-    * - Advanced Search
-      - Users can search target Promotion Event items by different criterion.
-    * - Export Excel
-      - Users can export Promotion Event Report in Excel Format
-    * - ID, Event Title input box
-      - Users can type Promotion Event ID or Event Title to carry out quick search
 
 Create Promotion Event
 ==================
 Users can create new Promotion Event Items by clicking on the “Create Promotion Event” Button on top of the Promotion Event table.
 
+|Promotioneventcreatebutton|
 |Createpromotionevent1|
 |Createpromotionevent2|
 |Createpromotionevent3|
@@ -208,7 +189,10 @@ Advanced Search
 ==================
 Users can search targeted Promotion Event items by clicking “Advanced Search” button on top of the Promotion Event table and input different criterion in the popup window.
 
+|Promotionadvancedsearchbutton|
 |Promotioneventadvancedsearch|
+
+
 
 .. list-table:: Promotion Event Advacned Search Page
     :widths: 10 50
@@ -325,9 +309,10 @@ Users can export Promotion Event items in Excel format by clicking on the “Exp
 
 
 .. |Promotioneventmodule| image:: Promotioneventmodule.JPG
-.. |Promotioneventbuttons| image:: Promotioneventbuttons.JPG
+.. |Promotioneventcreatebutton| image:: Promotioneventcreatebutton.JPG
 .. |Createpromotionevent1| image:: Createpromotionevent1.jpg
 .. |Createpromotionevent2| image:: Createpromotionevent2.jpg
 .. |Createpromotionevent3| image:: Createpromotionevent3.jpg
+.. |Promotionadvancedsearchbutton| image:: Promotionadvancedsearchbutton.JPG
 .. |Promotioneventadvancedsearch| image:: Promotioneventadvancedsearch.jpg
 .. |Promotioneventreport| image:: Promotioneventreport.JPG
