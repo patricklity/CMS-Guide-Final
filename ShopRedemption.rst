@@ -38,32 +38,13 @@ The Shop Redemption Module shows all the redemption events in the table.
     * - Actions
       - Edit - Edit Shop Redemption Item Information, Download - Download Redemption Item, Delete - Delete Redemption Item
       
-Buttons
-==================
-Users can select the buttons on top of the Promotion Event table to create and search Shop Redemption items.
 
-|Shopredemptionbuttons|
-
-.. list-table:: Shop Redemption Module Buttons
-    :widths: 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - FIELD NAME
-      - FIELD DESCRIPTION
-    * - Create Shop Redemption
-      - Users can create new Shop Redemption Items
-    * - Advanced Search
-      - Users can search target Shop Redemptions items by different criterion.
-    * - Other Search
-      - Users can search target Shop Redemptions items by different status.
-    * - Title input box
-      - Users can type Shop Redemption Items Title to carry out quick search
       
 Advanced Search
 ==================
 Users can search targeted Shop Redemption Items by clicking on the “Advanced Search” button on top of the Shop Redemption table and input the criterion of search.
 
+|Shopredemptionadvancedsearchbutton|
 |Shopredemptionadvancedsearch|
 
 .. list-table:: Shop Redemption Advanced Search Page
@@ -83,6 +64,7 @@ Create Shop Redemption Item
 ==================
 Users can create new Shop Redemption items by clicking on the “+ Create Shop Redemption” button on top of the Shop Redemption table.
 
+|Createshopredemptionbutton|
 |Createshopredemption|
 
 .. list-table:: Create Shop Redemption Item Page
@@ -154,7 +136,8 @@ Users can carry out a quick search of Shop Redemption items by clicking on the �
       - Show all Shop Redemption Items
  
 .. |Shopredemptionmodule| image:: Shopredemptionmodule.JPG
-.. |Shopredemptionbuttons| image:: Shopredemptionbuttons.JPG
+.. |Shopredemptionadvancedsearchbutton| image:: Shopredemptionadvancedsearchbutton.JPG
 .. |Shopredemptionadvancedsearch| image:: Shopredemptionadvancedsearch.jpg
+.. |Createshopredemptionbutton| image:: Createshopredemptionbutton.JPG
 .. |Createshopredemption| image:: Createshopredemption.jpg
 .. |Shopredemptionothersearch| image:: Shopredemptionothersearch.JPG
