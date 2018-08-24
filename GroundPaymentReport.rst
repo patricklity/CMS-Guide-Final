@@ -44,6 +44,7 @@ Advanced Search
 ==================
 User can Search Ground Payment Items by clicking on the “Advanced Search” button on top of the Ground Payment Table and input search criterion into the popup window.
 
+|Groundpaymentadvancedsearchbutton|
 |Groundpaymentadvancedsearch|
 
 .. list-table:: Ground Payment Advanced Search Page 
@@ -100,5 +101,6 @@ Ground Payment Report
   
   
 .. |Groundpaymentmodule| image:: Groundpaymentmodule.JPG
+.. |Groundpaymentadvancedsearchbutton| image:: Groundpaymentadvancedsearchbutton.JPG
 .. |Groundpaymentadvancedsearch| image:: Groundpaymentadvancedsearch.jpg
 .. |Groundpaymentreport| image:: Groundpaymentreport.JPG
