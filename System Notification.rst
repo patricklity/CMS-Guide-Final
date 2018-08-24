@@ -31,6 +31,7 @@ Create
 ==================
 Users can Create new System Notification by clicking on the “Create System Notification” button on top of the System Notification table and input New System Notification details into the popup window.
 
+|Systemnotimodulecreatebutton|
 |systemnoti_create|
 
 .. list-table:: Create System Notification
@@ -63,5 +64,6 @@ Users can Create new System Notification by clicking on the “Create System Not
 
 
 .. |systemnoti| image:: systemnoti.JPG
+.. |Systemnotimodulecreatebutton| image:: Systemnotimodulecreatebutton.JPG
 .. |systemnoti_create| image:: systemnoti_create.JPG
 
