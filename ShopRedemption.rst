@@ -36,7 +36,9 @@ The Shop Redemption Module shows all the redemption events in the table.
     * - Status
       - Active/ Inactive Shop Redemption
     * - Actions
-      - Edit - Edit Shop Redemption Item Information, Download - Download Redemption Item, Delete - Delete Redemption Item
+      - - Edit - Edit Shop Redemption Item Information
+        - Download - Download Redemption Item
+        - Delete - Delete Redemption Item
       
 
       
