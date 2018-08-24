@@ -60,7 +60,9 @@ Product List Module shows the details of different Products in the Table. User c
     * - Status
       - Active/ Inactive Products
     * - Actions
-      - Edit/ Clone/ Delete Product Item
+      - - Edit - Edit the details of the specific Product
+        - Clone - Copy the Product Details
+        - Delete - Delete The Product Item
       
       
    
