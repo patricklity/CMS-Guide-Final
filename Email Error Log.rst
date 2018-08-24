@@ -21,7 +21,9 @@ Email Error Log Module displays the details of Error Emails. Users can select co
     * - Recipient Email
       - The internal recipient Email Address of the Email Error
     * - Actions
-      - Resend Mandrill Email/ Resend SMTP Email/ Ignore Email
+      - - Resend Mandrill Email
+        - Resend SMTP Email
+        - Ignore Email
 
 
 .. |Emailerrorlogmodule| image:: Emailerrorlogmodule.JPG
