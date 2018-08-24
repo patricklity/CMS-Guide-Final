@@ -28,7 +28,9 @@ Vendor List displays the details of different Vendors. Users can create vendors 
     * - Status
       - Active/ Inactive Vendor
     * - Action
-      - Edit - Edit Vendor Item Information. Edit Products - Edit Products Information of The Vendor, Delete - Delete Vendor Item
+      - - Edit - Edit Vendor Item Information
+        - Edit Products - Edit Products Information of The Vendor
+        - Delete - Delete Vendor Item
 
 
 
