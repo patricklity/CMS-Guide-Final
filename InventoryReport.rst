@@ -42,7 +42,7 @@ Advanced Search
 ==================
 Users can Search the Inventory Details of different Products by Date Range when clicking on the “Advanced Search” button on top of the Inventory Report Table.
 
-
+|Inventoryreportadvancedsearchbutton|
 |Inventoryreportadvancedsearch|
 
 .. list-table:: Inventory Report Advanced Search Page
@@ -120,6 +120,7 @@ User can Export Inventory Details in Excel Format by clicking on the “Export E
       - Show "Active" Status non-zero quantity Product
 
 .. |Inventoryreportmodule| image:: Inventoryreportmodule.JPG
+.. |Inventoryreportadvancedsearchbutton| image:: Inventoryreportadvancedsearchbutton.JPG
 .. |Inventoryreportadvancedsearch| image:: Inventoryreportadvancedsearch.jpg
 .. |Inventoryreportothersearch| image:: Inventoryreportothersearch.JPG
 .. |Inventoryreport| image:: Inventoryreport.JPG
