@@ -41,7 +41,8 @@ Product Bundle Module displays the details of all Product Bundles in the table. 
     * - Status
       - Active/ Inactive Product Bundle
     * - Actions
-      - Edit - Edit Product Bundle Information, Archive - Archive Product Bundle Item Information
+      - - Edit - Edit Product Bundle Information
+        - Archive - Archive Product Bundle Item Information
 
     
 .. list-table:: 
