@@ -39,7 +39,8 @@ Banner Module displays the details of different Banners made by our colleagues f
     * - Status
       - Active/ Inactive Banner
     * - Action
-      - Edit - Edit Banner Item Information, Delete - Delete Banner Item
+      - - Edit - Edit Banner Item Information
+        - Delete - Delete Banner Item
         
 
 Create Banner
