@@ -29,6 +29,7 @@ Create
 ==================
 Users can Create new Product Featured Category by clicking on the “New Featured Category” button on top of the Featured Category Table and input Category Details into the popup window.
 
+|Featurecategorycreatebutton|
 |feacat_create|
 
 .. list-table:: Create Product Feature Category
@@ -56,3 +57,4 @@ Users can Create new Product Featured Category by clicking on the “New Feature
 
 .. |feacat| image:: feacat.JPG
 .. |feacat_create| image:: feacat_create.JPG
+.. |Featurecategorycreatebutton| image:: Featurecategorycreatebutton.JPG
