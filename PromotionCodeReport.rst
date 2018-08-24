@@ -25,7 +25,9 @@ Promotion Code Report Module displays the details of different Promotion Code an
     * - PIC
       - The Person In Charge for the Promotion Code
     * - Action
-      - Download Not Yet Checkout List/ Download Order List/ Download User Specific List of The Promotion Code
+      - - Download Not Yet Checkout List
+        - Download Order List
+        - Download User Specific List of The Promotion Code
 
     
 Advanced Search
@@ -49,7 +51,10 @@ Users can Search Promotion Code by clicking on the “Advanced Search” button 
       -
     * - Promotion Type
       - The Type of Promotion
-      - Reduce Price, Discount Off, Z-dollar, Z-dollar Percentage 
+      - - Reduce Price
+        - Discount Off
+        - Z-dollar
+        - Z-dollar Percentage 
     * - PIC
       - The Person in Charge of the Promotion Code
       -
