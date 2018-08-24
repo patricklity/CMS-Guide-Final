@@ -70,7 +70,8 @@ After Searching The Product by its Product SN (ID), users can see the promotion 
     * - Status
       - The Product Promotion Price Item Status
     * - Action
-      - Edit – Edit The Promotion Price Item Information, End – Stop The Promotion Price Item
+      - - Edit – Edit The Promotion Price Item Information
+        - End – Stop The Promotion Price Item
       
       
 Promotion Price Report
