@@ -39,7 +39,10 @@ Product Rating Module displays the review of different Product and Orders from t
     * - Pack Size
       - The Pack Size of Product Order
     * - Actions
-      - Referring to CS - Refer The Customer Review to The CS Team, Show - Display The Review, Reply - Reply to The Review, Delete - Delete The Review Item
+      - - Referring to CS - Refer The Customer Review to The CS Team
+        - Show - Display The Review
+        - Reply - Reply to The Review
+        - Delete - Delete The Review Item
 
 
 Batch Update
