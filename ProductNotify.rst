@@ -30,7 +30,10 @@ Product Notification List displays the details of different Product Notification
     * - First Request Date
       - The Date of First Product Request Notification
     * - Notify Status
-      - Buyer Remarked/ Closed/ In Progress.../ Manually Closed Product Notification
+      - - Buyer Remarked
+        - Closed
+        - In Progress...
+        - Manually Closed Product Notification
     * - Actions
       - Edit - Edit Product Notification Item
       
@@ -66,7 +69,10 @@ Users can click on the “Advanced Search” button on top of the Product Notifi
       -
     * - Notify Status
       - Buyer Remarked/ Closed/ In Progress.../ Manually Closed Product Notification
-      - Buyer Remarked - The Product Notification is Remarked by The Customer to Receive, Closed - The Product Notification is closed, In Progress... - The Product Notification is in the Progress of Notifying Customer, Manually Closed - 
+      - - Buyer Remarked - The Product Notification is Remarked by The Customer to Receive
+        - Closed - The Product Notification is closed
+        - In Progress... - The Product Notification is in the Progress of Notifying Customer
+        - Manually Closed - The Product Notification is closed by staff before the deadline
 
 Product Notify Report
 ==================
