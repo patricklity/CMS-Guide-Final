@@ -23,7 +23,10 @@ MMS Delivery Log Module displays the Message Types and their delivery status.
     * - Total 
       - Total Number of Description MMS
     * - Action
-      - Download Pending List/ Download Failed List/ Download Sent List/ Cancel Delivery of MMS 
+      - - Download Pending List
+        - Download Failed List
+        - Download Sent List
+        - Cancel Delivery of MMS 
       
 Advanced Search
 ==================
