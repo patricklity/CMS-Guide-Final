@@ -52,7 +52,10 @@ Users can Search for Tickets by clicking on the “Advanced Search” button on 
     * - Assignee
       - The Assignee of The Ticket
     * - Status
-      - Unassigned/ Assigned/ Complete/ Cancel Status of The Ticket
+      - - Unassigned
+        - Assigned
+        - Complete
+        - Cancel 
 
 Ticket Conversation
 ==================
