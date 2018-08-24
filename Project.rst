@@ -28,6 +28,7 @@ Project Module display details of different Projects in Ztore.
 Create
 ==================
 
+|Projectmodulecreatebutton|
 |project_create|
 
 .. list-table:: Project Create
@@ -50,4 +51,5 @@ Create
 
 
 .. |project| image:: project.JPG
+.. |Projectmodulecreatebutton| image:: Projectmodulecreatebutton.JPG
 .. |project_create| image:: project_create.JPG
