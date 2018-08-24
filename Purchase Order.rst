@@ -77,7 +77,9 @@ Advanced Search
 ==================
 Users can input different criterion into the pop-up Advanced Search window to locate target Purchase Order Items.
 
+|Purchaseorderadvancedsearchbutton|
 |Purchaseorderadvancedsearch|
+
 
 .. list-table:: Purchase Order Module Advanced Search
     :widths: 10 50 50
@@ -145,6 +147,8 @@ Create and Edit
 ==================
 By clicking the “Create” Button on top of the Purchase Order table, users can create a new Purchase Order Item.
 Users can also click the “Edit” Button of the corresponding Purchase Order Item under the Action column to edit the details of that item.
+
+|Purchaseordercreateeditbutton|
 
 |purorder_create|
 
@@ -504,8 +508,10 @@ Users can select “Export for WMS” from the dropdown list of the “Tools” 
 
 
 .. |purorder| image:: purorder.JPG
+.. |Purchaseorderadvancedsearchbutton| image:: Purchaseorderadvancedsearchbutton.JPG
 .. |Purchaseorderadvancedsearch| image:: Purchaseorderadvancedsearch.jpg
 .. |purorder_buttons| image:: purorder_buttons.JPG
+.. |Purchaseordercreateeditbutton| image:: Purchaseordercreateeditbutton.JPG
 .. |purorder_create| image:: purorder_create.JPG
 .. |purorder_edit| image:: purorder_edit.JPG
 .. |purorder_report| image:: purorder_report.JPG
