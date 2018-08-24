@@ -42,7 +42,10 @@ Tag List Module displays the detailed information of all the Tags. Users can sea
     * - Last Update Date
       - The Date of Latest Tag Update
     * - Action
-      - Edit - Edit Tag Item Information, Delete - Delete Tag Item, Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
+      - - Edit - Edit Tag Item Information
+        - Delete - Delete Tag Item
+        - Save - Save Updated Tag Information
+        - Cancel - Cancel Tag Item Editing
 
        
 
@@ -110,7 +113,8 @@ Users can click on the “Create Tag” button on top of the Tag table and enter
     * - Last Update Date
       - The Latest Update Date for The Tag
     * - Action
-      - Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
+      - - Save - Save Updated Tag Information
+        - Cancel - Cancel Tag Item Editing
 
 Tag Report
 ==================
