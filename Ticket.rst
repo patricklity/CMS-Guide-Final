@@ -31,6 +31,7 @@ Advanced Search
 ==================
 Users can Search for Tickets by clicking on the “Advanced Search” button on top of the Ticket Table and input search criterion into the popup window.
 
+|Ticketmoduleadvancedsearchbutton|
 |ticket_search|
 
 .. list-table:: Ticket Module Advanced Search
@@ -57,6 +58,7 @@ Ticket Conversation
 ==================
 Users can click on the Title of Ticket to see the Ticket details on a popup window.
 
+|Ticketconversationbutton|
 |ticket_conver|
 
 .. list-table:: Ticket Conversation
@@ -79,6 +81,7 @@ Other Search
 ==================
 Users can filter Tickets easily by clicking on the “Other Search” button on top of the Ticket by Ticket Status and Assignee.
 
+|Ticketothersearchbutton|
 |ticket_othersearch|
 
 .. list-table:: Ticket Other Search
@@ -105,7 +108,9 @@ Users can filter Tickets easily by clicking on the “Other Search” button on 
       
       
 .. |ticket| image:: ticket.JPG
+.. |Ticketmoduleadvancedsearchbutton| image:: Ticketmoduleadvancedsearchbutton.JPG
 .. |ticket_search| image:: ticket_search.JPG
+.. |Ticketconversationbutton| image:: Ticketconversationbutton.JPG
 .. |ticket_conver| image:: ticket_conver.JPG
+.. |Ticketothersearchbutton| image:: Ticketothersearchbutton.JPG
 .. |ticket_othersearch| image:: ticket_othersearch.JPG
-
