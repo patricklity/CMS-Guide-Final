@@ -47,7 +47,9 @@ The Purchase Order displays the Purchase Orders made by our company to outside v
     * - Is Sent?
       - "Yes" or "No" of whether the Order is sent
     * - Action
-      - Edit, Clone or Download Purchase Order Item
+      - - Edit - Edit details of specific Purchase Order Item
+        - Clone - Copy the Details of a Puchase Order Item o
+        - Download - Download the Details of a Purchase Order Item
       
 Buttons
 ==================
