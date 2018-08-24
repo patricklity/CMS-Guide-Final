@@ -50,6 +50,7 @@ Search Sales
 ==================
 Users can search for Sales Details by clicking on the “Search Sales” button and inputting different criterion into the popup window.
 
+|Salesreportsearchbutton|
 |Searchsales|
 
 .. list-table:: Search Sales Page
@@ -139,6 +140,7 @@ Users can Export Sales Detail in Excel Format by choosing the Report Type and cl
       - The Z-Dollar Rebate Amount of The Order
 
 .. |Salesreportmodule| image:: Salesreportmodule.JPG
+.. |Salesreportsearchbutton| image:: Salesreportsearchbutton.JPG
 .. |Searchsales| image:: Searchsales.jpg
 .. |Salesreport| image:: Salesreport.JPG
 
