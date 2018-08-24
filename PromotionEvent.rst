@@ -44,7 +44,9 @@ Promotion Event table displays the details all the Promotion Events.
     * - Created Date
       - The Date of Creating The Promotion Event
     * - Actions
-      - Edit - Edit Promotion Event Information, Delete - Delete Promotion Event Item, Download - Download Promotion Item Information
+      - - Edit - Edit Promotion Event Information
+        - Delete - Delete Promotion Event Item
+        - Download - Download Promotion Item Information
 
 
 
