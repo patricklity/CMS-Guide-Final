@@ -34,7 +34,8 @@ Brand List Module shows the details of different Brands in the Table. User can c
     * - Last Update Date
       - The Latest Update Date of The Brand
     * - Action
-      - Edit - Edit Brand Item Information, Delete - Delete Brand Item
+      - - Edit - Edit Brand Item Information
+        - Delete - Delete Brand Item
       
       
 Create Brand
@@ -67,7 +68,8 @@ Users can create new Brand by clicking the “Create Brand” button on top of t
     * - Status
       - Active/ Inactive Brand
     * - Action
-      - Save - Save New Brand Item Information, Cancel - Cancel Creating New Brand Item
+      - - Save - Save New Brand Item Information
+        - Cancel - Cancel Creating New Brand Item
 
 Other Search
 ==================
