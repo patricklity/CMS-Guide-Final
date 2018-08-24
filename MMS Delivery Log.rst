@@ -29,6 +29,7 @@ Advanced Search
 ==================
 Users can search for Delivery Log by clicking on the “Advanced Search” button on top of the Delivery Log Table and input search criterion into the popup window.
 
+|Mmsadvancedsearchbutton|
 |mms_search|
 
 .. list-table:: MMS Delivery Log Module Advanced Search
@@ -51,4 +52,5 @@ Users can search for Delivery Log by clicking on the “Advanced Search” butto
 
 
 .. |mmsde| image:: mmsde.JPG
+.. |Mmsadvancedsearchbutton| image:: Mmsadvancedsearchbutton.JPG
 .. |mms_search| image:: mms_search.JPG
