@@ -27,7 +27,7 @@ Product Promotion Module displays all the Product Promotion Items of all Product
     * - Status
       - Active/Inactive Promotion
     * - Action
-      - Active/Inactive Promotion
+      - Edit Product Promotion Item
 
 
 
